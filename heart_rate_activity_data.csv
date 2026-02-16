@@ -1,4 +1,4 @@
-time,heart_rate,activity,steps
+time,heart_rate_bpm,activity,steps
 2024-01-01 08:00:00,65.2,rest,2
 2024-01-01 08:01:00,122.2,exercise,114
 2024-01-01 08:02:00,89.1,walking,38
